@@ -18,10 +18,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-
-*Game development is one of my favorite fields in IT*
-
-*Discover & download my video game projects here : https://amiralhartman.itch.io/*
+*My Game Jam video games : https://amiralhartman.itch.io/*
 
 
 ## Other skills
